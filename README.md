@@ -1,0 +1,46 @@
+ <!DOCTYPE html>
+   
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Biyoloji ve Yasam</title>
+
+<link href="biologydaily.css" type="text/css" rel="stylesheet"/>
+
+<style>
+p1 {
+ border-width: 5px;  
+ background-color: lightgrey;
+}
+ul.p1 {
+margin-top: 10px;
+}
+</style>
+
+</head>
+<body>
+<div id="wrapper">
+<div id="logo">
+<img src="https://image.flaticon.com/icons/png/128/139/139313.png"/>
+
+</div>
+
+<p>elif.ertem.pro@gmail.com</p>
+<header>
+<h1>Biyoloji ve Yasam</h1>
+</header>
+
+<nav>
+<ul class="main_menu">
+<li><a href="biology.html">Anasayfa</a></li>
+<li><a href="#">Hakkında</a></li>
+<li><a href="#">İletisim</a></li>
+</ul>
+</nav>
+
+
+</body>
+
+</html>
